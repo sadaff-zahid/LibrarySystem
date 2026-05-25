@@ -1,0 +1,24 @@
+Git Repository
+==============
+
+Please create a GitHub repository and push this project with the following steps:
+
+  git init
+  git add .
+  git commit -m "Initial commit: Library Management System — CS-412"
+  git remote add origin https://github.com/YOUR_USERNAME/LibraryManagementSystem.git
+  git push -u origin main
+
+Then paste your repository URL here:
+
+Repository URL: https://github.com/YOUR_USERNAME/LibraryManagementSystem
+
+Suggested commit messages for regular commits:
+  - "Add database schema and DatabaseHelper (DAL)"
+  - "Add Book model and CRUD operations"
+  - "Add Student model and CRUD operations"
+  - "Add Issue/Return functionality"
+  - "Add Dashboard with statistics"
+  - "Add Login form with MySQL validation"
+  - "Add soft delete for books and students"
+  - "Final cleanup and comments"
